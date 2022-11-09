@@ -15,7 +15,7 @@ Cajero1 : +int billete20
 Cajero1 : +int billete50
 Cajero1 : +int billete100
 Cajero1 : +int billete200
-Cajero1 : +int billete50
+Cajero1 : +int billete500
 Cajero1 : +CalculoRetirada(int retirada)
 Cajero1: +main(String[] args)
 ```
